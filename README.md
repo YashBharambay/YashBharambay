@@ -1,38 +1,37 @@
-?
-    &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26)
--->
 
-### <img src="Hi.gif" width="3px"> Hello world!&nbsp;<img src="Earth.gif" width="3px">
+ &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26)
 
-<p>
+<!--  ### <img src="Hi.gif" width="25px" height="25px"> Hello world!&nbsp;<img src="Earth.gif" width="25px" height="25px"> 
+
+ <p>
   <em>
     I am an ELectronics Engineering Student <br>
     20 years of living a comical life! <br>
-    <!-- Team member at <a href="https://dscsrm.com/"> <b>DSC SRM Powered by Google Developers</b></a><br> -->
-    <br>
-    <b>A friendly Neighbourhood Developer</b> <img src="Developer.gif" width="3px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="Designer.gif" width="3px">  who is <b>obsessed</b>
+    Team member at <a href="https://dscsrm.com/"> <b>DSC SRM Powered by Google Developers</b></a><br> 
+     <br>
+    <b>A friendly Neighbourhood Developer</b> <img src="Developer.gif" width="25px" height="25px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="Designer.gif" width="25px" height="25px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="Rocket.gif" width="3px">and 
-    <b>excel.</b> <img src="Medal.gif" width="3px"> <br>
-    I Love <b>Web Development</b>, xD. <br>
+    <b>grow</b> <img src="Rocket.gif" width="25px" height="25px">and 
+    <b>excel.</b> <img src="Medal.gif" width="25px" height="25px"> <br>
+    I Love <b>Web Development</b>, xD. <br> 
   </em>  
 </p>
 
-<br>
+<br> -->
 
-- <img alt="GIF" src="wave.gif" width="20vw" /> I’m _currently_ **sleeping** 😴 or _working_ on my **PC** 👨‍💻
-- <img alt="GIF" src="gandalf_parrot.gif" width="20vw" /> I’m **good** in **Web Development** and currently learning **Android Development** 💪.
-- <img alt="GIF" src="headbang.gif" width="20vw" /> I’m _looking to collaborate_ to **Amazing Enthusiasts with fascinating projects**.
-<!-- - <img alt="GIF" src="hmm.gif" width="20vw" /> I Love **Machine Learning** and **Open CV**🌐 -->
+<!-- - <img alt="GIF" src="wave.gif" width="25px" height="25px" /> I’m _currently_ **sleeping** 😴 or _working_ on my **PC** 👨‍💻 -->
+- <img alt="GIF" src="gandalf_parrot.gif" width="25px" height="25px" /> I’m **good** in **Web Development** and currently learning **Android Development** 💪.
+<!-- - <img alt="GIF" src="headbang.gif"width="25px" height="25px" /> I’m _looking to collaborate_ to **Amazing Enthusiasts with fascinating projects**. -->
+<!-- - <img alt="GIF" src="hmm.gif" width="25px" height="25px"" /> I Love **Machine Learning** and **Open CV**🌐 -->
 - 🌱 I’m currently exploring **Blockchain** .
-- <img alt="GIF" src="happy.gif" width="20vw" /> _Ask me_ about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="coin.gif" width="20vw" /> **Fun fact:** I am an _Electronics Student_ 💡😴
-- <img alt="GIF" src="Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
-  <br>
+<!-- - <img alt="GIF" src="happy.gif" width="25px" height="25px" /> _Ask me_ about **why do I think aliens 👽 exist.** -->
+- <img alt="GIF" src="coin.gif" width="25px" height="25px" /> **Fun fact:** I am an _Electronics Student_ 💡😴
+- <img alt="GIF" src="Medal.gif" width="25px" height="25px" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
+  <br> 
 
-<!-- ## Spotify Playing 🎧
+ ## Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn) -->
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
 
 <br>
 
@@ -63,7 +62,7 @@
     <!-- <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/OpenCV%20-%23FFBB00.svg?&style=for-the-badge&logo=Canonical&logoColor=white"/> -->
 
 <br>
-<img src="super-kid.gif" alt="Super Kid">
+<!-- <img src="super-kid.gif" alt="Super Kid"> -->
 
 # Connect with me<img src="Handshake.gif" height="32px">
 
