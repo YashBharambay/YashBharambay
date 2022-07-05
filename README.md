@@ -1,41 +1,8 @@
-<!-- ![Readme](common-readme.png) -->
-
-<!-- ![Yash Bharambay](banner.png) -->
-
-<!-- ![Yash Bharambay](linkedin.jpg)
-
-### Hi there 👋 I am Yash Bharambay -->
-
-<!-- **YashBharambay/YashBharambay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- Here are some ideas to get you started: -->
-
-<!-- - 🔭 I’m currently working on building my profile -->
-
-<!-- - 👀 I’m interested in reactjs, nextjs,aws , blockchain
-- 🌱 I’m currently learning blockchain and NodeJS.
-- 👯 I’m looking to collaborate to amazing people to help in projects. -->
-  <!-- - 🤔 I’m looking for help with ... -->
-  <!-- - 💬 Ask me about ... 
-
-      <!-- 📫 How to reach me: ybharambay@gmail.com  -->
-
-  <!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ...I am an Electonics Engineering student
-- 📫 My Personal Portfolio website: https://yashbharambay.vercel.app/
-- 📫 How to reach me:<br/>
-  <a href="mailto:ybharambay@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-  <a href="https://www.linkedin.com/in/yash-bharambay-9873b220a">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashBharambay&layout=compact) -->
-
-# Yash Bharambay&nbsp;<img src="Mario_Hello_Big.gif" width="30px">
-
-<!--
+?
     &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26)
 -->
 
-### <img src="Hi.gif" width="29px"> Hello world!&nbsp;<img src="Earth.gif" width="24px">
+### <img src="Hi.gif" width="3px"> Hello world!&nbsp;<img src="Earth.gif" width="3px">
 
 <p>
   <em>
@@ -43,10 +10,10 @@
     20 years of living a comical life! <br>
     <!-- Team member at <a href="https://dscsrm.com/"> <b>DSC SRM Powered by Google Developers</b></a><br> -->
     <br>
-    <b>A friendly Neighbourhood Developer</b> <img src="Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="Designer.gif" width="36px">  who is <b>obsessed</b>
+    <b>A friendly Neighbourhood Developer</b> <img src="Developer.gif" width="3px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="Designer.gif" width="3px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="Medal.gif" width="20px"> <br>
+    <b>grow</b> <img src="Rocket.gif" width="3px">and 
+    <b>excel.</b> <img src="Medal.gif" width="3px"> <br>
     I Love <b>Web Development</b>, xD. <br>
   </em>  
 </p>
