@@ -29,10 +29,6 @@
 - <img alt="GIF" src="Medal.gif" width="25px" height="25px" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
   <br> 
 
- ## Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
-
 <br>
 
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=YashBharambay&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
